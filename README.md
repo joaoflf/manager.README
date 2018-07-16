@@ -44,7 +44,7 @@ I am a deep believer of [extreme ownership](https://www.youtube.com/watch?v=ljqr
 
 The principle of ownership is simple. When you don’t like something, you can decide it’s important enough to change, or you can try to ignore it. There is no other option.
 
-Basically, **You. Own. Your. Work.** Whatever it is, from the moment you are take a task, through pull requests, sprint plannings, mentoring, delivery, QA approvals and all the way back to a reopen, you are responsible.
+Basically, **You. Own. Your. Work.** Whatever it is, from the moment you take on a task, through pull requests, sprint plannings, mentoring, delivery, QA approvals and all the way back to a reopen, you are responsible.
 
 Personal and career development. You are responsible for it. Your career is yours. You know best how you’d like to grow and in what areas. I can provide feedback and an outside perspective. I’ll do my best to provide growth and learning opportunities, it’ll be up to you to seize them. Let’s work together on this. At the end of the day, it is your career. You set your goals. You set your priorities. Let me know how I can help you achieve them.
 
