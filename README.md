@@ -23,9 +23,9 @@ My teams come first, the company comes second. Obviously I have a responsibility
 
 Therefore I assume that:
   1. You’re very good at your job
-	2. I’m not good at your job
-	3. You’ll let me know if you can’t do your job
-	4. You feel safe debating with me
+  2. I’m not good at your job
+  3. You’ll let me know if you can’t do your job
+  4. You feel safe debating with me
   5. All models are wrong but some are useful. There is no prescribed way of doing things, we take what makes sense in our context, try it out and keep it or discard it.
 
 ## The Team
@@ -68,9 +68,9 @@ And please, don’t save urgent matters for a 1-1!
 Feedback is another thing I consider crucial to the sucess of teams and individuals. I will constantly ask you for feedback, and expect you to do the same with your peers and me. Please make sure that all feedback is:
   
   1. Given with the intent of helping the other person grow.
-	2. Aimed at behavior, not the person. “You are dumb” is not feedback, it is an attack on the person.
-	3. Actionable and explicit as to what improved behavior looks like.
-	4. Given as quickly as possible. Timely feedback provides a tighter loop to reorient behavior.
+  2. Aimed at behavior, not the person. “You are dumb” is not feedback, it is an attack on the person.
+  3. Actionable and explicit as to what improved behavior looks like.
+  4. Given as quickly as possible. Timely feedback provides a tighter loop to reorient behavior.
   
 ## Sounds Good?
 
