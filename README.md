@@ -11,15 +11,15 @@ I ask you to hold me accountable to my promises, and to call out anything that m
 I started my career as a developer, and through several years dabbled with iOS, backend with node and python, and frontend with Angular and React. Soon I realised that working with people fulfilled me a lot more than writing code. I fell in love with what one can do when helping teams and individuals grow, work together in a safe and purposeful environment and ultimately building amazing things. That was why I chose to turn to the "dark side" and pursue a career as a manager.
 
 ## My Job
-As an engineering manager, I am here at Talkdesk primarily to do three things
+As an Director of Engineering, I am here at GetGround primarily to do three things
 1. Attract and retain world-class talent (that's you)
-2. Make sure that you and our team is successful, happy, and working on the things that are most important to help our customers and improve our product and our business.
-3. Provide context on your work and make sure everyone is aligned and pointed in the same direction.
+2. Make sure that you and Engineering is successful, happy, and working on the things that are most important to help our customers and improve our product and our business.
+3. Make sure everyone is aligned and pointed in the same direction.
 
 If I fall short at any of these, you would be doing me a huge favor by letting me know as soon as possible.
 
 ## My Assumptions
-My teams come first, the company comes second. Obviously I have a responsibility to the company, but without a well operating, well staffed, and well functioning team, I am unable to live up to those responsibilities. Your success is ultimately my success - so I will go out of my way to try and make you successful.
+My teams come first. Without a well operating, well staffed, and well functioning team, I am unable to live up to those responsibilities. Your success is ultimately my success - so I will go out of my way to try and make you successful.
 
 Therefore I assume that:
   1. You’re very good at your job
